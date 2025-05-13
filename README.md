@@ -7,7 +7,7 @@ This project focuses on improving the training performance and generation qualit
 ## 🔧 Optimization Overview
 
 ### 📐 Model Architecture
-- Increased the number of Transformer blocks (layers) and multi-head attention heads
+- Increased the number of Transformer blocks (layers) and implemented multi-head attention heads
 - Expanded embedding and feed-forward dimensions to enhance token representation
 
 ### 🧹 Data Processing
