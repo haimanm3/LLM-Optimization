@@ -1,6 +1,6 @@
 # 🧠 Optimizing a Character-Level Transformer LLM in PyTorch
 
-This project focuses on improving the training performance and generation quality of a character-level Transformer-based language model trained on Shakespearean text. The model was optimized across architecture, data processing, training configuration, regularization, and sampling — all without increasing the number of training steps.
+This project focuses on improving the training performance and generation quality of a character-level Transformer-based language model trained on Shakespearean text. The model was optimized across architecture, data processing, training configuration, regularization, and sampling, all without increasing the number of training steps.
 
 ---
 
